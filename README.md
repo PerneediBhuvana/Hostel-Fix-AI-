@@ -1,4 +1,4 @@
-# HavenDesk Hostel Complaint Management System
+# HOSTEL FIX AI  Hostel Complaint Management System
 
 A role-based hostel service portal built with React/Vite, Bootstrap 5, Flask REST API, JWT, SQLAlchemy, bcrypt, and MySQL.
 
