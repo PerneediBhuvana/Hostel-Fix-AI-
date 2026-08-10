@@ -100,4 +100,4 @@ erDiagram
 - Set a long random `JWT_SECRET_KEY` and a MySQL `DATABASE_URL` in `.env`.
 - Put the API behind HTTPS and restrict `Flask-CORS` origins to the deployed frontend.
 - Add a durable object store for complaint images instead of local disk in a multi-instance deployment.
-- The UI includes the core student workflow and dashboard shell; admin/staff management endpoints are ready for extending the remaining table actions and export adapters.
+- The UI includes the core student workflow and dashboard shell; admin/staff management endpoints are ready for extending the remaining table actions and export adapters..
